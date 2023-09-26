@@ -23,7 +23,7 @@ jobs:
       - uses: Gian-UC
         id: snake-gif
         with:
-          github_user_name: Gian-UC #Seu usuario
+          github_user_name: Gian-UC #Gian-UC
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
