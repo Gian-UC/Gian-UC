@@ -1,8 +1,4 @@
 ### Hi there, I´m Giancarlo 👋
-<div style="display: inline_block"><br>
-<img aligh="center" height="300em" width="350em" src="https://github.com/Gian-UC/Gian-UC/assets/144973904/d14bf5fc-e1ba-4b4c-a5ba-34273362d08a">
-</div>
-<br>
 
 - 🖥️ I’m currently learning Enginering Computer and systems development
 - 😄 Pronouns: His/Him
@@ -57,26 +53,14 @@
 <!--header-->
 <table>
     <tr><th colspan="2"><h3>⚔️ Animes e Jogos Favoritos</h3></th></tr>
-  <tr><td colspan="2" align="center"><p>This plugin displays favorites animes, mangas and characters from a <a href="https://anilist.co">AniList</a> account.</p>
-</td></tr>
-  <tr><th>⚠️ Disclaimer</th><td><p>This plugin is not affiliated, associated, authorized, endorsed by, or in any way officially connected with <a href="https://anilist.co">AniList</a>.
-All product and company names are trademarks™ or registered® trademarks of their respective holders.</p>
-</td></tr>
-  <tr>
-    <th rowspan="3">Supported features<br><sub><a href="metadata.yml">→ Full specification</a></sub></th>
-    <td><a href="/source/templates/classic/README.md"><code>📗 Classic template</code></a></td>
-  </tr>
-  <tr>
-    <td><code>👤 Users</code> <code>👥 Organizations</code></td>
-  </tr>
-  <tr>
-    <td><i>No tokens are required for this plugin</i></td>
-  </tr>
+  
+ 
+  
   <tr>
     <td colspan="2" align="center">
       <details open><summary>For anime watchers</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.anilist.svg" alt=""></img></details>
       <details><summary>For manga readers</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.anilist.manga.svg" alt=""></img></details>
-      <details open><summary>Personagens Favoritos><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.anilist.characters.svg" alt=""></img></details>
+      <details open><summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.anilist.characters.svg" alt=""></img></details>
       <img width="900" height="1" alt="">
     </td>
   </tr>
