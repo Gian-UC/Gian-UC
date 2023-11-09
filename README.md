@@ -1,6 +1,6 @@
 ### Hi there, I´m Giancarlo 👋
 
-<img height="500em" width="500em" src="https://github.com/Gian-UC/Gian-UC/assets/144973904/d14bf5fc-e1ba-4b4c-a5ba-34273362d08a">
+<img height="300em" width="350em" src="https://github.com/Gian-UC/Gian-UC/assets/144973904/d14bf5fc-e1ba-4b4c-a5ba-34273362d08a">
 
 
 
