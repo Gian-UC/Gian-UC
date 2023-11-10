@@ -1,7 +1,6 @@
 ### Hi there, I´m Giancarlo 👋
 
 - 🖥️ I’m currently learning Enginering Computer and systems development
-- 😄 Pronouns: His/Him
 
  <div>
    <a href="https://github.com/Gian-UC">
