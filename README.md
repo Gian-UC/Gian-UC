@@ -34,6 +34,8 @@
   <br>
 </div>
 
+
+--- <hr style="border: 0.5px solid #e5e5e5;">
  
 ### Para contato, minhas redes abaixo:
  
@@ -96,16 +98,3 @@
                                            10. ** Jujutsu Kaisen **
 
    ![Attack on Titan](https://github.com/Gian-UC/Gian-UC/assets/144973904/67786e44-a5af-40a0-9d99-edcc727b9821)  ![Kimetsu No Yaiba](https://github.com/Gian-UC/Gian-UC/assets/144973904/e55e0740-7618-43e4-9458-58e15c8f9281)  ![Dragon Ball Super](https://github.com/Gian-UC/Gian-UC/assets/144973904/6ef45386-659b-4f23-a2f6-df8ba858f740)  ![One Piece](https://github.com/Gian-UC/Gian-UC/assets/144973904/784b3f1e-3b9f-4cbe-8835-9d2d3fcbe5ad)  ![Bleach](https://github.com/Gian-UC/Gian-UC/assets/144973904/3aadfaf9-6c8e-46f1-8135-0e607894c391)  ![Sword-Art-Online-the-Movie-Progressive-](https://github.com/Gian-UC/Gian-UC/assets/144973904/9e6f90b2-32d7-49f7-9194-18c4e5f61122)  ![fairy-tail-100-years-quest-8-1](https://github.com/Gian-UC/Gian-UC/assets/144973904/c0225db9-b089-4880-9c95-ee019a21483f)  ![The Deadly Seven Sins_](https://github.com/Gian-UC/Gian-UC/assets/144973904/0bd6a822-974c-4988-a072-0be987c09276)  ![chainsaw-man](https://github.com/Gian-UC/Gian-UC/assets/144973904/c3e174af-8d1c-4d84-952e-c8bbd67918c9)  ![Jujutsu_Kaisen](https://github.com/Gian-UC/Gian-UC/assets/144973904/c1904a69-7ed2-45c7-85a4-722a9b93b248)
-
-
-
-
-
-
-
-
-
-
-
-
-
