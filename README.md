@@ -33,9 +33,6 @@
 
   <br>
 </div>
-
-
---- <hr style="border: 0.5px solid #e5e5e5;">
  
 ### Para contato, minhas redes abaixo:
  
@@ -50,10 +47,9 @@
 ![snake gif](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 
-
 <!--header-->
 <table>
-    <tr><th colspan="2"><h3>⚔️ Animes e Jogos Favoritos</h3></th></tr>  
+    <tr><th colspan="2"><h3>⚔️ Personagens Favoritos</h3></th></tr>  
   <tr>
     <td colspan="2" align="center">
 <!--       <details open><summary>For anime watchers</summary><img src="" alt=""></img></details> -->
