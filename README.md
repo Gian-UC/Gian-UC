@@ -52,12 +52,9 @@
     <tr><th colspan="2"><h3>⚔️ Personagens Favoritos</h3></th></tr>  
   <tr>
     <td colspan="2" align="center">
-<!--       <details open><summary>For anime watchers</summary><img src="" alt=""></img></details> -->
-<!--       <details><summary>For manga readers</summary><img src="" alt=""></img></details> -->
-      <details open><summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.anilist.characters.svg" alt=""></img></details>
+      <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.anilist.characters.svg" alt="">
       <img width="900" height="1" alt="">
-    </td>
-  </tr>
+    </td>  
 </table>
 <!--/header-->
 
