@@ -3,7 +3,8 @@
 - 🖥️ I’m currently learning Enginering Computer and systems development
 
 
-![image](https://github.com/Gian-UC/Gian-UC/assets/144973904/eef72d8c-ef9e-4824-afef-81219e5367f3)
+
+![8351156](https://github.com/Gian-UC/Gian-UC/assets/144973904/de7de313-7ebf-40ae-8f3e-de022b86f082)
 
 
 
