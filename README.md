@@ -1,13 +1,7 @@
+![8351156](https://github.com/Gian-UC/Gian-UC/assets/144973904/de7de313-7ebf-40ae-8f3e-de022b86f082)
 ### Hi there, I´m Giancarlo 👋
 
 - 🖥️ I’m currently learning Enginering Computer and systems development
-
-
-
-![8351156](https://github.com/Gian-UC/Gian-UC/assets/144973904/de7de313-7ebf-40ae-8f3e-de022b86f082)
-
-
-
 
  <div>
    <a href="https://github.com/Gian-UC">
