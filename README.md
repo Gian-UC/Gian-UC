@@ -2,6 +2,12 @@
 
 - 🖥️ I’m currently learning Enginering Computer and systems development
 
+
+![image](https://github.com/Gian-UC/Gian-UC/assets/144973904/eef72d8c-ef9e-4824-afef-81219e5367f3)
+
+
+
+
  <div>
    <a href="https://github.com/Gian-UC">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gian-UC&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
