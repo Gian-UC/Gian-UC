@@ -9,7 +9,11 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gian-UC&layout=compact&langs_count=6&theme=dark"/>   
 </div>
 
+
+
+
 ### Linguagens
+![tony-stark (1)](https://github.com/Gian-UC/Gian-UC/assets/144973904/26137b5b-d5a6-427f-a263-3b166d6f6016)
     
 <div style="display: inline_block"><br>
   <img align="" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
