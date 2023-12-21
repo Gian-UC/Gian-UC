@@ -66,21 +66,33 @@
 
 
                                                     # Meus Jogos e Animes Favoritos
-## Jogos
+## Jogos Steam
 
-                                           1. **Resident Evil 4 Remake**
-                                           2. **Final Fantasy VII - Remake**
-                                           3. **Elden Ring**
-                                           4. **Resident Evil Village VR**
-                                           5. ** Alan Wake 2 **
-                                           6. ** The Last of Us Part 1 **
-                                           7. ** The Last of Us 2 **
-                                           8. ** God Of War Ragnarok **
-                                           9. ** Devil May Cry 5 **
-                                           10. ** Spider Man 2 **
+1. **Resident Evil 4 Remake**
+2. **Final Fantasy VII - Remake**
+3. **Elden Ring**
+4. **Resident Evil Village VR**
+5. **Alan Wake 2**
+6. **The Last of Us Part 1**
+7. **The Last of Us 2**
+8. **God Of War Ragnarok**
+9. **Devil May Cry 5**
+10. **Spider Man 2**                                           
                                            
    ![Resident Evil 4 Remake_](https://github.com/Gian-UC/Gian-UC/assets/144973904/dd02efff-cc7e-455e-a1c8-5c34ed5b4a1a)  ![Final_Fantasy_VII_Remake](https://github.com/Gian-UC/Gian-UC/assets/144973904/d4d00009-7c39-4de0-8a0b-44945b2a77b8)  ![Elden-Ring](https://github.com/Gian-UC/Gian-UC/assets/144973904/2d53682d-0ca1-488a-8eb0-cece219f4290)  ![Resident Evil Village VR](https://github.com/Gian-UC/Gian-UC/assets/144973904/b5ca0e61-fb4a-4b43-8dea-d63d16548135)  ![AlanWake2](https://github.com/Gian-UC/Gian-UC/assets/144973904/bf44a557-d721-4646-a1c9-382df99c7fd2)  ![The_Last_of_Us_Part_I](https://github.com/Gian-UC/Gian-UC/assets/144973904/f06bd54b-fd7c-402d-9d73-72c7caf22e98)  ![the-last-of-us-part-2](https://github.com/Gian-UC/Gian-UC/assets/144973904/32accaa0-2fd3-49d5-8609-8f8d96cd8df3) ![God Of War Ragnarok](https://github.com/Gian-UC/Gian-UC/assets/144973904/bcb74608-0e99-40df-9716-a8a44ba258d4)  ![Devil May Cry 5](https://github.com/Gian-UC/Gian-UC/assets/144973904/b729821a-6852-49b7-8e4c-76aaae67a306)  ![spider-man-2](https://github.com/Gian-UC/Gian-UC/assets/144973904/19355ce2-6ca9-48de-bd51-ce09dd39ae4d) 
-   
+
+
+## Jogos Online
+
+1. **Black Desert Online**
+2. **Vindictus Online**
+3. **Final Fantasy XIV**
+                                          
+
+
+![Black Desert Online](https://github.com/Gian-UC/Gian-UC/assets/144973904/de7f0625-8569-4784-867a-36a5a7122358)   ![Vindictus](https://github.com/Gian-UC/Gian-UC/assets/144973904/6ebd3df3-8198-41b0-8584-b0be1a908149)   ![Final Fantasy XIV - Endwalker](https://github.com/Gian-UC/Gian-UC/assets/144973904/3fc46e45-4e91-4f7f-8911-88984518bfbc)
+
+  
 
 ## Animes
 
