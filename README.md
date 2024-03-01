@@ -63,10 +63,10 @@
 
                                                       #   Alguns Projetos
 
-1. ** Projeto Porfolio - pode ser acessado pelo link: https://gian-uc.github.io/js-developer-portfolio/**
-2. ** Projeto de uma landing page sobre alguns personagens do anime One Piece - pode ser acessado pelo link: https://gian-uc.github.io/projeto-one-piece/ **
-3. ** Projeto de um mini jogo de cartas de "Pedra,Papel e Tesoura" do anime Yu-Gi-Oh - pode ser acessado pelo link: https://gian-uc.github.io/yugioh-game/ **
-4. ** Projeto de um mini jogo de clique no alvo sobre o filme Detona Ralph - pode ser acessado pelo link: https://gian-uc.github.io/detonaralphgame/ **
+1. **Projeto Porfolio - pode ser acessado pelo link: https://gian-uc.github.io/js-developer-portfolio/**
+2. **Projeto de uma landing page sobre alguns personagens do anime One Piece - pode ser acessado pelo link: https://gian-uc.github.io/projeto-one-piece/**
+3. **Projeto de um mini jogo de cartas de "Pedra,Papel e Tesoura" do anime Yu-Gi-Oh - pode ser acessado pelo link: https://gian-uc.github.io/yugioh-game/**
+4. **Projeto de um mini jogo de clique no alvo sobre o filme Detona Ralph - pode ser acessado pelo link: https://gian-uc.github.io/detonaralphgame/**
 
 
 ![Projeto Portifolio - DIO2](https://github.com/Gian-UC/Gian-UC/assets/144973904/1c8d6a5c-33d7-4753-89bc-c72d9802f2bd) ![Projeto 2 2](https://github.com/Gian-UC/Gian-UC/assets/144973904/b139b602-214a-468e-9a22-450043ccb8ee) ![Projeto 3 3](https://github.com/Gian-UC/Gian-UC/assets/144973904/68ab1fc5-76c3-4710-8239-50f400436a7a) ![Projeto 4 4](https://github.com/Gian-UC/Gian-UC/assets/144973904/35578110-7111-4c2e-b8cf-66248df606a7)
