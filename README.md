@@ -1,7 +1,15 @@
 ![8351156](https://github.com/Gian-UC/Gian-UC/assets/144973904/de7de313-7ebf-40ae-8f3e-de022b86f082)
-### Hi there, I´m Giancarlo 👋
+### Hi there, I´m Giancarlo Salomone👋
 
-- 🖥️ I’m currently learning Enginering Computer and systems development
+- 🖥️ I’m currently learning Enginering Computer in university Anhembi Morumbi.
+- 🤓 I'm studying Systems Development in Cubos Academy.
+- 🎉 Technologies that I am studying: HTML, CSS, JavaScript, NodeJS, C# and .NET in DIO.
+- 🧙 I really like games, series and anime.
+- 📧 How to reach me: g.salomone@live.com
+  
+
+
+
 
  <div>
    <a href="https://github.com/Gian-UC">
