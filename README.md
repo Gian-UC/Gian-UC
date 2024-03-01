@@ -61,7 +61,7 @@
 
 
 
-                                                            #   Alguns Projetos
+                                                      # Alguns Projetos
 
 1. **Projeto Porfolio - Finalizado - pode ser acessado pelo link: https://gian-uc.github.io/js-developer-portfolio/**
 2. **Projeto de uma landing page sobre alguns personagens do anime One Piece - pode ser acessado pelo link: https://gian-uc.github.io/projeto-one-piece/**
