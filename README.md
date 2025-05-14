@@ -2,8 +2,7 @@
 ### Hi there, I´m Giancarlo Salomone👋
 
 - 🖥️ I’m currently learning Enginering Computer in university Anhembi Morumbi.
-- 🤓 I'm studying Systems Development in Cubos Academy.
-- 🎉 Technologies that I am studying: HTML, CSS, JavaScript, NodeJS, C# and .NET in DIO.
+- 🎉 Technologies that I am studying: C# and .NET in DIO and others languages.
 - 🧙 I really like games, series and anime.
 - 📧 How to reach me: g.salomone@live.com
   
