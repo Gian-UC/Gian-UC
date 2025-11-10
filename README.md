@@ -45,6 +45,7 @@ timeline
     2023 : HTML, CSS, JavaScript
     2024 : React, Node.js, TypeScript, PostgreSQL
     2025 : C#, .NET, Docker, Arquitetura e Cloud (AWS/Azure)
+    2026 : IA, Banco de Dados em Grafos, C#, Python
 ```
 
 <div> <img height="160em" src="https://github-profile-trophy.vercel.app/?username=Gian-UC&theme=darkhub&no-frame=true&no-bg=true&margin-w=15"/> </div>
