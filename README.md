@@ -3,6 +3,7 @@
 
 - 🖥️ I’m currently learning Enginering Computer in university Anhembi Morumbi.
 - 🎉 Technologies that I am studying: C# and .NET in DIO and others languages.
+- 💙 Work At GFT Technologies
 - 🧙 I really like games, series and anime.
 - 📧 How to reach me: g.salomone@live.com
   
