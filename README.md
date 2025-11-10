@@ -4,7 +4,7 @@
 
 Desenvolvedor, jogador de Gacha Games (Honkai Star Rail, Wuthering Waves e Goddess Of Victory Nikke) nas horas vagas, fã de tecnologia futurista e apaixonado por criar projetos estilosos com propósito.
 
-Estudando **Engenharia da Computação** e atuando atualmente na **GFT Technologies** como Starter.
+Estudando **Engenharia da Computação** e atualmente Starter na **GFT Technologies**.
 
 > “Código é como magia: quando funciona, parece poder.” ⚡
 
@@ -38,6 +38,18 @@ Estudando **Engenharia da Computação** e atuando atualmente na **GFT Technolog
 
 ---
 
+### ⏳ Minha evolução como dev
+```mermaid
+timeline
+    title Linha do Tempo da Programação
+    2023 : HTML, CSS, JavaScript
+    2024 : React, Node.js, TypeScript, PostgreSQL
+    2025 : C#, .NET, Docker, Arquitetura e Cloud (AWS/Azure)
+```
+
+<div> <img height="160em" src="https://github-profile-trophy.vercel.app/?username=Gian-UC&theme=darkhub&no-frame=true&no-bg=true&margin-w=15"/> </div>
+
+
 ### 🚀 Projetos em destaque
 
 | Projeto | Link | Stack |
@@ -47,14 +59,11 @@ Estudando **Engenharia da Computação** e atuando atualmente na **GFT Technolog
 | Yu-Gi-Oh Mini Game | https://gian-uc.github.io/yugioh-game/ | JS / DOM / CSS |
 | Jogo do Ralph | https://gian-uc.github.io/detonaralphgame/ | JS / DOM / CSS |
 
----
-
 ### 📡 Contato
 <a href="https://www.linkedin.com/in/giancarlo-salomone-61620313a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge"/></a>
 <a href="mailto:g.salomone@live.com"><img src="https://img.shields.io/badge/Email-0050EF?logo=microsoft-outlook&style=for-the-badge"/></a>
 <a href="https://instagram.com/dn.giancarlo"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge"/></a>
 
----
 
 ### 🧩 Estatísticas
 <div>
@@ -64,9 +73,24 @@ Estudando **Engenharia da Computação** e atuando atualmente na **GFT Technolog
 
 ---
 
+<details>
+  <summary>🎮 Meus jogos e animes favoritos</summary>
+
+  *Final Fantasy, Resident Evil, Elden Ring, God of War, The Last of Us, etc.*
+
+  *Attack on Titan, Jujutsu Kaisen, Kimetsu, One Piece...*
+</details>
+
+---
+
 ### 
 ![Tony Stark Gif](https://i.pinimg.com/originals/71/dc/83/71dc83f83e5e5fa48d6d01f55e9e1fd2.gif)
 
 ---
 
 ![snake gif](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+
+
+
+
