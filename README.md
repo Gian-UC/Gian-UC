@@ -2,7 +2,7 @@
 
 ## 👋 Yo! Sou o Giancarlo.
 
-Desenvolvedor, jogador de Soulslike nas horas vagas, fã de tecnologia futurista e apaixonado por criar projetos estilosos com propósito.
+Desenvolvedor, jogador de Gacha Games (Honkai Star Rail, Wuthering Waves e Goddess Of Victory Nikke) nas horas vagas, fã de tecnologia futurista e apaixonado por criar projetos estilosos com propósito.
 
 Estudando **Engenharia da Computação** e atuando atualmente na **GFT Technologies** como Starter.
 
