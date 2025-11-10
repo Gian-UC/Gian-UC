@@ -27,6 +27,24 @@ Estudando **Engenharia da Computação** e atualmente Starter na **GFT Technolog
 </div>
 
 ---
+### 🤖 Inteligência Artificial & Automação
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img height="35" src="https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white">
+  <img height="35" src="https://img.shields.io/badge/Machine Learning-2F8D46?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img height="35" src="https://img.shields.io/badge/Power Platform-742774?style=for-the-badge&logo=powerapps&logoColor=white">
+</div>
+
+---
+
+### 🗄️ Bancos de Dados & Modelagem
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img height="35" src="https://img.shields.io/badge/SQL Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+  <img height="35" src="https://img.shields.io/badge/Graph DB-0099FF?style=for-the-badge&logo=neo4j&logoColor=white">
+</div>
+
+---
 
 ### ⚙ Ferramentas que fazem parte do meu dia
 <div style="display: flex; gap: 10px;">
