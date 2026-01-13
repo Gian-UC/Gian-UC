@@ -40,12 +40,28 @@ Estudando **Engenharia da Computação** e atualmente Starter na **GFT Technologie
 
 ---
 
-###  Bancos de Dados & Modelagem
+###  Bancos de Dados & Cache
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img height="35" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
   <img height="35" src="https://img.shields.io/badge/Graph_DB-0099FF?style=for-the-badge&logo=neo4j&logoColor=white">
+  <img height="35" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+</div>
+
+---
+
+###  DevOps, Infraestrutura & Observabilidade
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img height="35" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white">
+  <img height="35" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
+  <img height="35" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">
+  <img height="35" src="https://img.shields.io/badge/Jaeger-66CFE3?style=for-the-badge&logo=jaeger&logoColor=black">
+  <img height="35" src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white">
+  <img height="35" src="https://img.shields.io/badge/Keycloak-008aaa?style=for-the-badge&logo=keycloak&logoColor=white">
+  <img height="35" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black">
+  <img height="35" src="https://img.shields.io/badge/MailHog-1F2937?style=for-the-badge&logo=maildotru&logoColor=white">
 </div>
 
 ---
@@ -53,7 +69,6 @@ Estudando **Engenharia da Computação** e atualmente Starter na **GFT Technologie
 ###  Ferramentas que fazem parte do meu dia
 <div style="display: flex; gap: 10px;">
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 </div>
